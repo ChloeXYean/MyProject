@@ -5,7 +5,7 @@ Welcome! Here are my projects during the study of University of Tunku Abdul Rahm
 ---
 
 ## 📱 Kotlin/Android Apps
-- [🍽️ Food Order App](https://github.com/ChloeXYean/RasaGo.git) – Android app for ordering food 
+- [🍽️ RasaGo](https://github.com/ChloeXYean/RasaGo.git) – Android restaurant ordering app 
 
 ---
 
@@ -15,7 +15,7 @@ Welcome! Here are my projects during the study of University of Tunku Abdul Rahm
 ---
 
 ## 💻 Python
-- [🧑‍💻 Personal Assistant Software System](https://github.com/ChloeXYean/Personal-Assistant-Software-System.git) – A group Python Tkinter app implementing a personal assistant suite (To-Do List Manager, Basic Calendar, Expense Tracker)
+- [🧑‍💻 All-in-One Planner](https://github.com/ChloeXYean/Personal-Assistant-Software-System.git) – A group Python Tkinter app implementing a personal assistant suite (To-Do List Manager, Basic Calendar, Expense Tracker)
 
 ---
 
