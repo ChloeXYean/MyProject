@@ -15,7 +15,7 @@ Welcome! Here are my projects during the study of University of Tunku Abdul Rahm
 ---
 
 ## 💻 Python
-*(more projects coming soon!)*
+- [🧑‍💻 Personal Assistant Software System](https://github.com/ChloeXYean/Personal-Assistant-Software-System.git) – A group Python Tkinter app implementing a personal assistant suite (To-Do List Manager, Basic Calendar, Expense Tracker)
 
 ---
 
